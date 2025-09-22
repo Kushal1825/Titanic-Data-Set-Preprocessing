@@ -57,3 +57,5 @@ python index.py
 ```
 titanic_preprocessed.csv
 ```
+
+<img width="1497" height="630" alt="image" src="https://github.com/user-attachments/assets/d5689ace-eeb2-4eda-9e6a-198b7493c9ef" />
